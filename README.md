@@ -1,4 +1,17 @@
-# React + Vite
+# Seoly Operations Portal
+
+See [CLIENT_DOCUMENTATION.md](./CLIENT_DOCUMENTATION.md) for the client-facing functionality guide, user roles, workflows, API integration, and setup instructions.
+
+## Developer Setup
+
+```bash
+npm install
+npm run dev
+```
+
+Create a production build with `npm run build`.
+
+## Original Vite Template Notes
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
